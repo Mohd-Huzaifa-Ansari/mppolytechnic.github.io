@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mppolytechnic.ac.in	TRUE	/	FALSE	1999999999	PHPSESSID	4671b930f22d0f40df324c0b2766ac09
+
